@@ -1,0 +1,5 @@
+app_name = NextGen
+version = 1.0.0
+debug = True
+db_host = localhost
+db_port = 5432
